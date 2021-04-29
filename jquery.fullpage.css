@@ -309,3 +309,12 @@ li{
 
 a:link {text-decoration: none; color:red;}
 a:active{ text-decoration: none; color:royalblue}
+
+body {
+	margin : 0;
+	padding : 0;
+}
+
+#fp-nav ul li a span{
+    background-color: black;
+}
